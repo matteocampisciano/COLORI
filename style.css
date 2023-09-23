@@ -1,4 +1,7 @@
-/* ! Base Style */
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"  crossorigin="anonymous">
+
 body{
   overflow-x:scroll;
 }
@@ -388,6 +391,12 @@ ul.bottom-nav li a{
   -webkit-transition: all 0.3s ease-in-out; /* Safari */
    transition: all 0.3s ease-in-out;
 }
+
+ul.bottom-nav li a:hover{
+  color:#ffffff;
+}
+
+/* media rules */
 
 ul.bottom-nav li a:hover{
   color:#ffffff;
