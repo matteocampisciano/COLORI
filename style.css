@@ -1,7 +1,3 @@
-
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"  crossorigin="anonymous">
-
 body{
   overflow-x:scroll;
 }
@@ -397,7 +393,3 @@ ul.bottom-nav li a:hover{
 }
 
 /* media rules */
-
-ul.bottom-nav li a:hover{
-  color:#ffffff;
-}
