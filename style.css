@@ -1,6 +1,6 @@
 /* ! Base Style */
-body{
-  overflow-x:scroll;
+body{overflow-x:scroll; 
+    
 }
 
 a{
@@ -16,11 +16,11 @@ a{
 }
 
 nav.navbar.top-nav{
-  background-color:#79b8d4;
-border: thick double #4723fa;
- -webkit-box-shadow: 0px 1px 1px 0px rgb(155, 65, 155);
-  -moz-box-shadow: 0px 1px 1px 0px rgb(155, 65, 155);
-  box-shadow: 0px 1px 1px 0px rgb(155, 65, 155);
+.background-color:#79b8d4;
+.border: thick double #4723fa;
+.webkit-box-shadow: 0px 1px 1px 0px rgb(155, 65, 155);
+.moz-box-shadow: 0px 1px 1px 0px rgb(155, 65, 155);
+.box-shadow: 0px 1px 1px 0px rgb(155, 65, 155);
 }
 
 nav.navbar.top-nav #navbar ul.nav li a{
@@ -33,9 +33,9 @@ nav.navbar.top-nav #navbar ul.nav li a{
 nav.navbar.top-nav #navbar ul.nav li a:hover,nav.navbar.top-nav #navbar ul.nav li a:focus{
    color:#fb00ff;
 }
+  .header#heading-block nav.navbar-default div.navbar-header button {
 
-header#heading-block nav.navbar-default div.navbar-header button {
-  background-color:#bf00ff;
+    background-color:#bf00ff;
 border: solid;
 }
 
@@ -51,7 +51,7 @@ header#heading-block nav.navbar-default div.navbar-header button span.icon-bar{
 /* Home section starts */
 
 #home-section{
-  background-image:url(https://i.pinimg.com/564x/7f/dd/7b/7fdd7b88e1d649e83689787b477aa8d4.jpg);
+  background-image:url"https://i.pinimg.com/564x/7f/dd/7b/7fdd7b88e1d649e83689787b477aa8d4.jpg";
   background-repeat:no-repeat;
   width:100%;
   background-size:cover;
